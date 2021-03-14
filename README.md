@@ -1,1 +1,3 @@
-# NLP Homework
+# Web Scrape and Crypto Sentiment Analysis
+
+The following repo contains an example of a sentiment analysis report and the power of Natural Language Processing. The entire crypto ecosystem relies on two things: hype and the underlying technology. Quantifying hype is a tricky business but is an important part of working in the crypto world. It is especially important on understanding price trajectories of micro coins and new exchanges. Subtle rises in online discussion of new exchanges or micro coins could lead to a major investment win. Check it out!
